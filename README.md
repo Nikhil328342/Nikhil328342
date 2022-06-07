@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nikhil328342
+- 👋 Hi, I’m @Nikhil Kumar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytic
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data analytic projects
 - 📫 How to reach me social media
 
